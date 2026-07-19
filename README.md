@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itagosc" alt="itagosc" /></p>
 -->
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
+- 🌱 I'm a student of **Agriculture and Environtment Enginnering**
 
-- 🤔 I’m looking for help with **JavaScript, React, Node**
+- 🤔 I’m looking for help with ... hum ... **All**
 
 - 📫 How to reach me **itagosc@gmail.com**
 
@@ -27,7 +27,6 @@
 </p>
 
 <p align="left">
-<a href="https://twitter.com/ItagoSC" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ItagoSC" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/itagosc" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="itagocs" height="30" width="30" /></a>
 <a href="https://instagram.com/itagosc" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itagocs" height="30" width="30" /></a>
 <!--
